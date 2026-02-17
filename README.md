@@ -14,7 +14,7 @@
 ## 🚀 How to Use
 
 1.  Download the latest version of the program.
-Download latest release link: https://github.com/sumerbraum-whitekcd/parok/releases/tag/RH-v1.1
+Download latest release link: https://github.com/sumerbraum-whitekcd/RH-3.4.0-Resource-Manager/releases/tag/RH-v1.1
 <img width="215" height="72" alt="image" src="https://github.com/user-attachments/assets/b6b26cde-0c0a-49f9-8c4a-4fa22eba738d" />
 
 
